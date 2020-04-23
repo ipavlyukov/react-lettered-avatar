@@ -1,0 +1,55 @@
+{
+  "name": "react-lettered-avatar",
+  "version": "1.0.0",
+  "description": "React Lettered Avatar is a component that generates an avatar based on the user's initials",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "react": "^15.6",
+    "react-dom": "^15.6"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^15.6",
+    "react-dom": "^15.6",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Igor Pavlyukov",
+    "email": "pavlyukov.igor@gmail.com"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "css-loader": "^3.5.2",
+    "contrast": "^1.0.1",
+    "style-loader": "^1.1.3"
+  },
+  "homepage": "https://github.com/ipavlyukov/react-lettered-avatar",
+  "bugs": {
+    "url": "https://github.com/ipavlyukov/react-lettered-avatar/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ipavlyukov/react-lettered-avatar.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react letter",
+    "letter avatar",
+    "lettered avatar",
+    "react letter avatar",
+    "react lettered avatar",
+    "react lettered profile image",
+    "component",
+    "react"
+  ]
+}

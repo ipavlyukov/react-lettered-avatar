@@ -1,0 +1,17 @@
+.lettered-avatar-wrapper {
+    text-align: center;
+}
+
+.lettered-avatar-wrapper.light {
+    color: #000;
+}
+
+.lettered-avatar-wrapper.dark {
+    color: #fff;
+}
+
+.lettered-avatar {
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 24px;
+}
