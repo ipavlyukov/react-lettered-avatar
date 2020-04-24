@@ -1,16 +1,16 @@
 # react-lettered-avatar
 
+[![npm version](https://badge.fury.io/js/react-lettered-avatar.svg)](https://badge.fury.io/js/react-lettered-avatar)
+
 React Lettered Avatar is a component that generates an avatar based on the user's initials. You can set the color of text, background color, and you can also set an array of colors for the background. There are also other props (you can see this below), if there are no options that you need, you can always use the CSS to style the component.
 
 ## Demo
 
-**[Demo on codesandbox](https://codesandbox.io/s/eager-night-ew5yb)**
+**[Demo on codesandbox](https://codesandbox.io/s/react-lettered-avatar-ew5yb)**
 
 ![React Lettered Avatar](https://user-images.githubusercontent.com/10261885/80034651-700e5f00-84f7-11ea-9c3a-0b6bdfc48e3a.png)
 
-# Quick start
-
-### Install `react-lettered-avatar`
+## Install `react-lettered-avatar`
 
 ```bash
 npm install react-lettered-avatar --save
@@ -19,7 +19,7 @@ npm install react-lettered-avatar --save
 or
 
 ```bash
-yarn add react-string-avatar --save
+yarn add react-lettered-avatar --save
 ```
 
 ## How to use
@@ -80,6 +80,6 @@ function App() {
 
 ### License
 
-react-string-avatar is [MIT licensed](./LICENSE).
+react-lettered-avatar is [MIT licensed](./LICENSE).
 
 **Enjoy using!**
