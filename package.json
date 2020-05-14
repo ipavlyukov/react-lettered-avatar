@@ -29,6 +29,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.5.1",
+    "babel-preset-es2015": "^6.24.1",
     "css-loader": "^3.5.2",
     "contrast": "^1.0.1",
     "style-loader": "^1.1.3"
